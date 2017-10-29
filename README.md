@@ -27,6 +27,7 @@
  * Have an internet connection
  * A README.md file
  * Git installed to view your progress
+ * Visit https://cruzlof.github.io/pingpong/
 
 ## Technologies Used
 The technologies used to design this game web application of ping-pong are HTML,CSS style
