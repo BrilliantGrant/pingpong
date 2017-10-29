@@ -30,3 +30,11 @@ h4{
 h3{
   font-weight: bolder;
 }
+
+h1{
+	width: 100%;
+	text-align: center;
+    background-color: #F5DFB3;
+
+
+}
