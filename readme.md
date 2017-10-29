@@ -18,6 +18,8 @@
 ## Speifications
   * can count from 1 to a given number
   * can replace multiples of 3 with ping
+  * can replace multiples of 5 with pong
+  * can replace multiples of 15 with pingpong
 
 ## Installation Requirements
  * Open index.html file with browser
