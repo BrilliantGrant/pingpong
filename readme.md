@@ -29,7 +29,7 @@
  * Git installed to view your progress
 
 ## Technologies Used
-The technologies used to design this web application of ping-pong are HTML,CSS style
+The technologies used to design this game web application of ping-pong are HTML,CSS style
 Bootstrap Javascript and jQuery.
 
 ### License
