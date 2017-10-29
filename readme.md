@@ -15,6 +15,10 @@
    A user should be able to enter a new number and see new results over and over again.
    uses the JavaScript,the bootstap framework also the jquery.
 
+## Speifications
+  * can count from 1 to a given number
+  * can replace multiples of 3 with ping
+
 ## Installation Requirements
  * Open index.html file with browser
  * Atleast have a computer or a laptop
