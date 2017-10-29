@@ -16,10 +16,10 @@
    uses the JavaScript,the bootstap framework also the jquery.
 
 ## Speifications
-  * can count from 1 to a given number
-  * can replace multiples of 3 with ping
-  * can replace multiples of 5 with pong
-  * can replace multiples of 15 with pingpong
+  * Can count from 1 to a given number
+  * Can replace multiples of 3 with ping
+  * Can replace multiples of 5 with pong
+  * Can replace multiples of 15 with pingpong
 
 ## Installation Requirements
  * Open index.html file with browser
