@@ -3,14 +3,14 @@
 	padding-right: 0;
 	padding-top: 0;
 	border: solid 4px black;
-	background-color: #E6E6E6;
+	background-color: #C2D3DA;
 
 }
 
 
 #sidebar{
 	margin: 0;
-	background-color: #8FBC8E;
+	background-color: #A4A4BF;
 	padding-bottom: 100%;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -34,13 +34,12 @@ h3{
 h1{
 	width: 100%;
 	text-align: center;
-    background-color: #F5DFB3;
+    background-color: #AFBADC;
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
     margin-top: 0;
     font-weight: bolder;
     margin-bottom: 20px;
-
 
 }
