@@ -4,9 +4,16 @@
 	padding-top: 0;
 	border: solid 4px black;
 	background-color: #C2D3DA;
+	opacity: 0.8;
 
 }
+.container2{
 
+	padding-top: 10px;
+	background-color: #C2D3DA;
+	opacity: 0.8;
+
+}
 
 #sidebar{
 	margin: 0;
@@ -29,6 +36,7 @@ h4{
 
 h3{
   font-weight: bolder;
+  
 }
 
 
@@ -43,8 +51,11 @@ h1{
     font-weight: bolder;
     margin-bottom: 20px;
     font-family: 'Playball', cursive;
+}
 
 
-.row2{
-	background-image: url("../images.number1.jpg");
+body{
+	background-image: url("../images/image8.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
