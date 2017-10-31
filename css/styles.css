@@ -10,8 +10,12 @@
 .container2{
 
 	padding-top: 10px;
-	background-color: #C2D3DA;
+	background-color: #AFBADC;
 	opacity: 0.8;
+	font-weight: bolder;
+	text-align: center;
+	height: 200px;
+	margin-bottom: 10px;
 
 }
 
@@ -31,9 +35,6 @@
 
 }
 
-h4{
-  font-weight: bolder;
-}
 
 h3{
   font-weight: bolder;
@@ -42,14 +43,10 @@ h3{
 
 
 h1{
-	width: 100%;
 	text-align: center;
-    background-color: #AFBADC;
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-top: 0;
-    font-weight: bolder;
     margin-bottom: 20px;
     font-family: 'Playball', cursive;
 }
@@ -59,4 +56,13 @@ body{
 	background-image: url("../images/image8.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+h1,h4{
+	margin: 8px;
+	padding: 8px;
+
+}
+.des{
+	font-family: 'Playball', cursive;
+	font-weight: bolder;
 }
