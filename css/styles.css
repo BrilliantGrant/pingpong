@@ -1,22 +1,30 @@
 .container{
-	padding-left: 0;
-	padding-right: 0;
-	padding-top: 0;
-	border: solid 4px black;
+	border: solid 2px black;
 	background-color: #C2D3DA;
 	opacity: 0.8;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	margin-top: 70px;
 
 }
-.container2{
+
+.container1{
+	background-color: #AFBADC;
+	opacity: 0.9;
+	max-height: 500px;
+	min-height: 226px;
+
+}
+.text{
 
 	padding-top: 10px;
-	background-color: #AFBADC;
 	opacity: 0.8;
 	font-weight: bolder;
 	text-align: center;
 	height: 200px;
 	margin-bottom: 10px;
-
+	
 }
 
 #sidebar{
@@ -38,6 +46,7 @@
 
 h3{
   font-weight: bolder;
+  color: brown;
   
 }
 
@@ -58,11 +67,18 @@ body{
 	background-size: cover;
 }
 h1,h4{
-	margin: 8px;
+	
 	padding: 8px;
+	font-family: 'Alfa Slab One', cursive;
+
 
 }
 .des{
 	font-family: 'Playball', cursive;
 	font-weight: bolder;
+}
+
+.row2{
+	text-align: initial;
+
 }
