@@ -8,7 +8,6 @@
 	margin-top: 70px;
 
 }
-
 .container1{
 	background-color: #AFBADC;
 	opacity: 0.9;
@@ -23,10 +22,8 @@
 	font-weight: bolder;
 	text-align: center;
 	height: 200px;
-	margin-bottom: 10px;
-	
+	margin-bottom: 10px;	
 }
-
 #sidebar{
 	margin: 0;
 	background-color: #A4A4BF;
@@ -35,22 +32,14 @@
 	padding-right: 5px;
 	padding-top: 15px;
 	text-align: center;
-
 }
-
 #submitButton{
 	background-color: #BFBFBF;
-
 }
-
-
 h3{
   font-weight: bolder;
   color: brown;
-  
 }
-
-
 h1{
 	text-align: center;
     width: 100%;
@@ -59,8 +48,6 @@ h1{
     margin-bottom: 20px;
     font-family: 'Playball', cursive;
 }
-
-
 body{
 	background-image: url("../images/image8.jpg");
 	background-repeat: no-repeat;
@@ -70,15 +57,11 @@ h1,h4{
 	
 	padding: 8px;
 	font-family: 'Alfa Slab One', cursive;
-
-
 }
 .des{
 	font-family: 'Playball', cursive;
 	font-weight: bolder;
 }
-
 .row2{
 	text-align: initial;
-
 }
